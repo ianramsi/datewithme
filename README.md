@@ -10,18 +10,7 @@
 - **CSS:** Styling the elements and creating hover effects.
 - **JavaScript:** Implementing the interactive behavior and managing button clicks.
 
-## How to Use
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/hallowshaw/Will-you-go-out-with-me.git
-   ```
-2. Open the index.html file in your web browser.
-
-3. Interact with the buttons and experience the playful decision-making process!
-
-## Demo
-
+## Credit to Hallowshaw
 
 ## Contributing 
 
